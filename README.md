@@ -1,76 +1,48 @@
 # Hi, I'm Md Imtiaz Kamrul 👋
 
-PhD Student in **Electrical and Computer Engineering** at the **University of Alabama**.
-
-I work at the intersection of **Machine Learning, Artificial Intelligence, and Electromagnetic Systems**.
+PhD Student in **Electrical and Computer Engineering** at the **University of Alabama**.  
+I build deep learning pipelines for **computer vision, generative AI, and time-series forecasting** using PyTorch and TensorFlow.
 
 ---
 
-## 🔬 Research Interests
+## 🤖 ML & AI Projects
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Multimodal AI
-- RF & Electromagnetics
-- AI for Engineering Systems
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [CLIP + LoRA Image Classification](https://github.com/ImtiazShuvo/) | End-to-end pipeline using CLIP embeddings with LoRA fine-tuning for efficient image classification | PyTorch, CLIP, LoRA |
+| [Conditional GAN Image Generation](https://github.com/ImtiazShuvo/conditional-gan-image-generation) | Class-conditioned image synthesis on CIFAR-10 with gradient norm monitoring | TensorFlow, Keras |
+| [Food vs Non-Food Classification](https://github.com/ImtiazShuvo/food-vs-nonfood-image-classification) | CNN vs EfficientNetB0 transfer learning comparison on Food-5K | TensorFlow, Keras |
+| [Stock Price Forecasting](https://github.com/ImtiazShuvo/stock-price-forecasting-deep-learning) | LSTM-based S&P 500 forecasting with SHAP feature selection | TensorFlow, SHAP |
+| [Handwritten Digit Classification](https://github.com/ImtiazShuvo/handwritten-digit-classification-keras) | Neural network with experiments on initialization, optimizers, and K-Fold CV | TensorFlow, Keras |
 
 ---
 
 ## 🛠 Technical Skills
 
-### Programming
-- Python
-- NumPy
-- Pandas
-
-### Machine Learning
-- Supervised Learning
-- Neural Networks
-- CNN
-- GAN
-- Multimodal Models
-
-### Frameworks
-- TensorFlow
-- Keras
-
-### Engineering Tools
-- MATLAB
-- Ansys HFSS
-- Ansys Maxwell
-- ADS
+**ML & AI:** Python, PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, CNN, GAN, LSTM, Transfer Learning, CLIP, LoRA Fine-Tuning, Vision-Language Models  
+**Tools:** Git, Jupyter, Google Colab, Linux, MATLAB  
+**RF & EM:** Ansys HFSS, Ansys Maxwell, Motor-CAD, Keysight ADS
 
 ---
 
-## 🤖 Machine Learning Projects
+## 🔬 Research
 
-Some of the machine learning projects I have worked on:
+Graduate Research Assistant at the University of Alabama — working on broadband antenna design, electromagnetic simulation, and permanent magnet optimization for motor systems using Ansys HFSS, Maxwell, and Motor-CAD.
 
-- CNN Image Classification
-- Handwritten Digit Recognition (Neural Network)
-- Conditional GAN for Image Generation
-- CLIP Vision-Language Model Fine-Tuning
-- Stock Price Prediction using Machine Learning
-- Multi-class Classification using Perceptron
+Previously at EMMA Lab, Seoul National University of Science & Technology — designed RF transmission lines and connectors up to 67 GHz.
 
 ---
 
 ## 🎓 Education
 
-**PhD — Electrical & Computer Engineering**  
-University of Alabama
-
-**MS — Integrated IT Engineering**  
-Seoul National University of Science & Technology
-
-**BS — Electronic & Telecommunication Engineering**  
-International Islamic University Chittagong
+**Ph.D.** — Electrical & Computer Engineering, University of Alabama *(in progress)*  
+**M.S.** — Integrated IT Engineering, Seoul National University of Science & Technology  
+**B.Sc.** — Electronic & Telecommunication Engineering, IIUC, Bangladesh
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Connect
 
-Website: https://www.imtiazshuvo.com  
-LinkedIn: https://www.linkedin.com/in/imtiaz-shuvo/  
-Google Scholar: https://scholar.google.com/citations?user=qJqOHsoAAAAJ
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-shuvo/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qJqOHsoAAAAJ)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.imtiazshuvo.com)
