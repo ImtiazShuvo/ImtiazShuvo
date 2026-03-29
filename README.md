@@ -9,7 +9,7 @@ I build deep learning pipelines for **computer vision, generative AI, and time-s
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [CLIP + LoRA Image Classification](https://github.com/ImtiazShuvo/) | End-to-end pipeline using CLIP embeddings with LoRA fine-tuning for efficient image classification | PyTorch, CLIP, LoRA |
+| [CLIP + LoRA Image Classification](https://github.com/ImtiazShuvo/clip-lora-food101-classification) | End-to-end pipeline using CLIP embeddings with LoRA fine-tuning for efficient image classification | PyTorch, CLIP, LoRA |
 | [Conditional GAN Image Generation](https://github.com/ImtiazShuvo/conditional-gan-image-generation) | Class-conditioned image synthesis on CIFAR-10 with gradient norm monitoring | TensorFlow, Keras |
 | [Food vs Non-Food Classification](https://github.com/ImtiazShuvo/food-vs-nonfood-image-classification) | CNN vs EfficientNetB0 transfer learning comparison on Food-5K | TensorFlow, Keras |
 | [Stock Price Forecasting](https://github.com/ImtiazShuvo/stock-price-forecasting-deep-learning) | LSTM-based S&P 500 forecasting with SHAP feature selection | TensorFlow, SHAP |
